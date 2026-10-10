@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Sitemaps and AI Context
+Sitemap: https://towingcraneservice.shop/sitemap.xml
+Sitemap: https://towingcraneservice.shop/llms.txt
